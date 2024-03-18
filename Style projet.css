@@ -2,7 +2,7 @@ li {
     display: inline-block;
     color: black;
     width: 120px;
-    height: 3vh;
+    height: 3%;
     margin: auto;
     color: white;
     font-size: large;
@@ -35,24 +35,24 @@ head {
     background-image: initial;
 }
 .list{
-    margin-left: 20vh;
+    margin-left: 20%;
     
 }
 ul {
     float: middle;
    
     width: 90%;
-    margin-top: 7vh;
-    margin-right: 10vh;
+    margin-top: 7%;
+    margin-right: 10%;
     
 }
 
 strong {
-    padding-top: 5vh;
-    padding-left: 7vh;
+    padding-top: 5%;
+    padding-left: 7%;
     float: left;
     color: white;
-    height: 1vh;
+    height: 1%;
     cursor: pointer;
     font-size: xx-large;
 }
@@ -115,8 +115,8 @@ p{
     font-size: x-large
 }
 .but{
-    width: 20vh;
-    padding-left: 20vh;
+    width: 20%;
+    padding-left: 20%;
 }
 .botton {
     --color: #3a0ca3;
@@ -178,7 +178,7 @@ p{
     transform: translate(-50%, -50%);
     opacity: 0;
     transition: opacity 1s ease-in-out;
-   padding-right: 35vh;
+   padding-right: 35%;
 }
 
 .slide.visible {
@@ -186,42 +186,42 @@ p{
     
     top: 55%;
     left: 37%;
-    padding-right: 35vh;
+    padding-right: 35%;
    
 }
 
 .slide-container {
     
-    padding-right: 35vh;
+    padding-right: 35%;
     top: 55%;
     left: 37%;
     overflow: hidden;
     
 }
 .image-container {
-    padding-top: 10vh;
-    width: 80vh;
-    height: 50vh;
+    padding-top: 10%;
+    width: 80%;
+    height: 50%;
     overflow: hidden;
     border-style: hidden;
     border-radius: 3%;
-    padding-left:10vh ;
-    padding-right: 10vh;
-    padding-bottom: 10vh;
+    padding-left:10% ;
+    padding-right: 10%;
+    padding-bottom: 10%;
     cursor: pointer;
     display: inline-block;
 }
 .image {
     transition: transform .2s ease-in-out;
-    width: 80vh;
-    height: 50vh;;
+    width: 80%;
+    height: 50%;;
     border-radius: 4%;
     cursor: pointer;
 }
 .image:hover {
     transform: scale(1.1);
-    width: 80vh;
-    height: 50vh;
+    width: 80%;
+    height: 50%;
 }
 body{
     margin: 0;
@@ -230,7 +230,7 @@ body{
 }
 .ply{
     color: rgba(255, 255, 255, 0.281);
-    width: 50vh;
+    width: 50%;
     font-size: 40px;
     
 
@@ -241,23 +241,23 @@ body{
 }
 .omg{
     float: right;
-    width: 80vh;
+    width: 80%;
     margin: auto;
-    height: 70vh;
+    height: 70%;
     margin-top: 0;
 }
 .title{
     color: black;
     font-size: xx-large;
-    margin-top: 10vh;
+    margin-top: 10%;
 }
 
 .omp{ 
     float: left;
     width: 602.5px;;
     margin: auto;
-    height: 70vh;
-    padding-left: 9vh;
+    height: 70%;
+    padding-left: 9%;
     background-color: rgb(207, 205, 205);   
     margin: 0;
     border-style: hidden;
@@ -266,15 +266,15 @@ body{
     
 }
 .image-containera{
-    padding-top: 10vh;
+    padding-top: 10%;
     width: 513px;
-    height: 50vh;
+    height: 50%;
     overflow: hidden;
     border-style: hidden;
     border-top-right-radius: 3%;
-    padding-left:10vh ;
-    padding-right: 10vh;
-    padding-bottom: 10vh;
+    padding-left:10% ;
+    padding-right: 10%;
+    padding-bottom: 10%;
   
     float: right;
     background-color: rgb(207, 205, 205);
@@ -284,12 +284,12 @@ body{
 }
 .poo{
     float: right;
-    width: 80vh;
+    width: 80%;
     margin: auto;
-    height: 70vh;
+    height: 70%;
     margin-top: 0;
     display: inline-block;
-    padding-right: 10vh;
+    padding-right: 10%;
 }
 .containerr{
     display:block;
@@ -305,17 +305,17 @@ footer {
     padding: 20px;
     display: flex;
     align-items: center;
-    height: 30vh;
-    padding-bottom: 8vh;
+    height: 30%;
+    padding-bottom: 8%;
     
 }
 
 .ll{
    display:block;
-   height: 4vh;
-   width: 30vh;
+   height: 4%;
+   width: 30%;
    margin: auto;
-   margin-top: 3vh;
+   margin-top: 3%;
    padding: 0;
    
 
@@ -327,14 +327,14 @@ footer {
     text-align: center;
 }
 .op{
-    width: 30vh;
+    width: 30%;
     
     
 }
 .h{
     float: right;
-    margin-left: 20vh;
-    margin-top: 10vh;
+    margin-left: 20%;
+    margin-top: 10%;
     font-size: x-large;
     
 }
@@ -351,17 +351,17 @@ footer {
     cursor: pointer;
   }
   .none {
-    margin-left: 3vh;
+    margin-left: 3%;
 
 }
 
 .no {
-    height: 3vh;
+    height: 3%;
     margin: auto;
-    width: 4vh;
+    width: 4%;
     cursor: pointer;
-    padding-right: 7vh;
-    padding-top: 1.5vh;
+    padding-right: 7%;
+    padding-top: 1.5%;
 
 }
 
@@ -395,12 +395,12 @@ footer {
 }
 
 .no {
-    height: 3vh;
+    height: 3%;
     margin: auto;
-    width: 4vh;
+    width: 4%;
     cursor: pointer;
-    padding-right: 7vh;
-    padding-top: 1.5vh;
+    padding-right: 7%;
+    padding-top: 1.5%;
 
 }
 
@@ -434,12 +434,12 @@ footer {
 }
 
 .no {
-    height: 3vh;
+    height: 3%;
     margin: auto;
-    width: 4vh;
+    width: 4%;
     cursor: pointer;
-    padding-right: 7vh;
-    padding-top: 1.5vh;
+    padding-right: 7%;
+    padding-top: 1.5%;
 
 }
 
@@ -488,10 +488,10 @@ footer {
     cursor: pointer;
   }
   .no{
-    height: 3vh;
+    height: 3%;
     margin: auto;
-    width: 4vh;
+    width: 4%;
     cursor: pointer;
-    padding-right: 7vh;
-    padding-top: 1.5vh;
+    padding-right: 7%;
+    padding-top: 1.5%;
   }
